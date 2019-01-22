@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LiveWire_Prototype.jnlp">
+  <information>
+    <title>LiveWire_Prototype</title>
+    <vendor>offic</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LiveWire_Prototype.jar" size="11465" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="LiveWire_Prototype" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="livewire_prototype.LiveWire_Ptype_2"  name="LiveWire_Prototype" />
+  <update check="always"/>
+</jnlp>

@@ -1,0 +1,7 @@
+Must have:
+User authentication/storage
+interactivity between accounts
+
+Should have:
+FXML User interface for login, makes the rest of the project easier
+fanciness
